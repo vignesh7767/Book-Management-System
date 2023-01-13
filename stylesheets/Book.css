@@ -1,0 +1,20 @@
+.Book {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 450px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.Book h1 {
+    color: midnightblue;
+}
+.Book h2 {
+    color: indigo;
+}
+.Book p{
+    color: gray;
+}
+.Book img {
+    border-radius: 10px;
+}
